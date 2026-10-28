@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Channels DVR is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://getchannels.com/
+Channels DVR provides a cloud-based live TV streaming and DVR service, allowing users to watch, record, and organize television content across devices. Founded in 2015, the company offers a customizable channel lineup, multiview capabilities, and integration with smart home platforms. Their platform includes APIs for automation, smart rules, and third‑party integrations, supporting developers to build custom experiences and manage media libraries.
+
+**Areas:** Company · Streaming · DVR · TV · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getchannels.com/)
+- [Documentation](https://getchannels.com/docs/)
+- [Getting started](https://getchannels.com/docs/getting-started/quick-start-guide/)
+- [Support](https://getchannels.com/support/)
+- [Changelog](https://getchannels.com/releases/)
+- [Blog](https://getchannels.com/blog/)
+- [Terms of service](https://community.getchannels.com/tos)
+- [Privacy policy](https://community.getchannels.com/privacy)
+- [GitHub](https://github.com/home)
+- [Status](https://status.getchannels.com/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/channels-dvr/](https://apis.io/providers/channels-dvr/).
